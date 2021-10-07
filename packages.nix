@@ -23,5 +23,6 @@
       libmysqlclient
       cmake
       bison
+      sbt
     ];
 }
