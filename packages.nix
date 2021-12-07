@@ -24,7 +24,6 @@
       cmake
       bison
       sbt
-      rustup
       rustc
       cargo
     ];
