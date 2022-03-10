@@ -19,12 +19,12 @@
       protobuf
       llvm
       black
-      mysql80
       libmysqlclient
       cmake
       bison
       sbt
       rustc
       cargo
+      golangci-lint
     ];
 }
