@@ -7,26 +7,26 @@
       argocd
       autoconf
       automake
+      bison
+      black
       cabal-install
+      cargo
+      cmake
       fd
       ffmpeg
-      google-cloud-sdk
-      mpv
-      niv
-      hlint
-      icu
-      yamllint
-      protobuf
-      llvm
-      black
-      libmysqlclient
-      cmake
-      bison
-      sbt
-      rustc
-      cargo
-      golangci-lint
       gnupg
       go
+      golangci-lint
+      google-cloud-sdk
+      hlint
+      icu
+      libmysqlclient
+      llvm
+      mpv
+      niv
+      protobuf
+      rustc
+      sbt
+      yamllint
     ];
 }
