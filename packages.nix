@@ -26,5 +26,6 @@
       rustc
       cargo
       golangci-lint
+      gnupg
     ];
 }
