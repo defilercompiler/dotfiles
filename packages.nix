@@ -27,5 +27,6 @@
       cargo
       golangci-lint
       gnupg
+      go
     ];
 }
