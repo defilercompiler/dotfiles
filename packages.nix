@@ -12,10 +12,11 @@
       cabal-install
       cargo
       cmake
+      emacs
       fd
       ffmpeg
       gnupg
-      go
+      go_1_18
       golangci-lint
       google-cloud-sdk
       hlint
@@ -25,6 +26,7 @@
       mpv
       niv
       protobuf
+      protoc-gen-go
       rustc
       sbt
       yamllint
