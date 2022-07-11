@@ -25,6 +25,7 @@
       llvm
       mpv
       niv
+      postgresql_14
       protobuf
       protoc-gen-go
       rustc
